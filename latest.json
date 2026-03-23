@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "HashLog 1.0.0 is now live!",
+  "pub_date": "2026-03-24T10:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "WE_WILL_PASTE_THIS_SOON",
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog_1.0.1_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "WE_WILL_PASTE_THIS_SOON",
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog_1.0.1_x64.app.tar.gz"
+    }
+  }
+}
