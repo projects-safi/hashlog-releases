@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
-  "notes": "HashLog 1.0.0 is now live!",
-  "pub_date": "2026-03-24T10:00:00Z",
+  "version": "1.0.1",
+  "notes": "Added app logo and open external url",
+  "pub_date": "2026-03-24T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "WE_WILL_PASTE_THIS_SOON",
-      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog_1.0.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b2VYSFowOHAxMXNMcHRDazNIMGlvZHdsVjlYT0czY2p4RmRjZmtvU0pXTk5OcVpkb3hzV3ZybVdYdFlXak1yU3dpOTJaZUwvT1RUVFM4K0xpRHNWeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYwODk4CWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CnltR04wYzRVZXdndzlEcktFWmJwditzYW5jUG1sZWxJeWxyTlIvZVZjZ0FqRTV4bzFQUjkzUFdqL0Z1QStWNFVOTHBQMUlhWDdBMTVUMFp5MjlHUURBPT0K",
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "WE_WILL_PASTE_THIS_SOON",
-      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog_1.0.1_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b2VYSFowOHAxMXNMcHRDazNIMGlvZHdsVjlYT0czY2p4RmRjZmtvU0pXTk5OcVpkb3hzV3ZybVdYdFlXak1yU3dpOTJaZUwvT1RUVFM4K0xpRHNWeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYwODk4CWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CnltR04wYzRVZXdndzlEcktFWmJwditzYW5jUG1sZWxJeWxyTlIvZVZjZ0FqRTV4bzFQUjkzUFdqL0Z1QStWNFVOTHBQMUlhWDdBMTVUMFp5MjlHUURBPT0K",
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog.app.tar.gz"
     }
   }
 }
