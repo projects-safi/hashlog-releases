@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1daRnJPVG5oWjJBNkdLSGVGSVpZdjJ5ZVpDV2JiZlg1eEtuaFh3akErb0QwanVvNXFLMEF2YjVkaTVaeE41NHhiSWFEcVVoU0xmWk5UUGkrWW9icWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQzMjExCWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CjQ0UFdjUU0rMGxCczA5bVBmSk11Vlh3RkwrMjJrNFpqQ0lKQytGZUxpWVY0NnpXb0pGOVJvWHhrSThYZVdBMXBlV2gvaEJMWHhNRFQvbDR2U2VLdEFRPT0K",
-      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog.app.tar.gz"
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.2/HashLog.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1daRnJPVG5oWjJBNkdLSGVGSVpZdjJ5ZVpDV2JiZlg1eEtuaFh3akErb0QwanVvNXFLMEF2YjVkaTVaeE41NHhiSWFEcVVoU0xmWk5UUGkrWW9icWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQzMjExCWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CjQ0UFdjUU0rMGxCczA5bVBmSk11Vlh3RkwrMjJrNFpqQ0lKQytGZUxpWVY0NnpXb0pGOVJvWHhrSThYZVdBMXBlV2gvaEJMWHhNRFQvbDR2U2VLdEFRPT0K",
-      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog.app.tar.gz"
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.2/HashLog.app.tar.gz"
     }
   }
 }
