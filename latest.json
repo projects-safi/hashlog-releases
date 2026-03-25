@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": "Added app logger.",
   "pub_date": "2026-03-24T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1hxOFlSMmRaZUhxUXBjaUZ3SDE1bVZNcFp5S2ZuMXhwQmF2cndFRzlPL1FyVHZ2VFI3bWl1OGtTTVhkRkFHM3RqVzE3NlFqU3I1RWQ4ZHIyTXIxTHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDEzMjg3CWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CmlrL2hVUy9RQTRaaGh1a3B6cDVGamJRb3BkUVFhNTQyNXA1WS9SR1F6Q08zd1E3OGZtSlJwa1hBN3BWcjBjUm1xdGltUXB6OG15QmdLcEwyQ3RhMUNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1daRnJPVG5oWjJBNkdLSGVGSVpZdjJ5ZVpDV2JiZlg1eEtuaFh3akErb0QwanVvNXFLMEF2YjVkaTVaeE41NHhiSWFEcVVoU0xmWk5UUGkrWW9icWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQzMjExCWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CjQ0UFdjUU0rMGxCczA5bVBmSk11Vlh3RkwrMjJrNFpqQ0lKQytGZUxpWVY0NnpXb0pGOVJvWHhrSThYZVdBMXBlV2gvaEJMWHhNRFQvbDR2U2VLdEFRPT0K",
       "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1hxOFlSMmRaZUhxUXBjaUZ3SDE1bVZNcFp5S2ZuMXhwQmF2cndFRzlPL1FyVHZ2VFI3bWl1OGtTTVhkRkFHM3RqVzE3NlFqU3I1RWQ4ZHIyTXIxTHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDEzMjg3CWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CmlrL2hVUy9RQTRaaGh1a3B6cDVGamJRb3BkUVFhNTQyNXA1WS9SR1F6Q08zd1E3OGZtSlJwa1hBN3BWcjBjUm1xdGltUXB6OG15QmdLcEwyQ3RhMUNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1daRnJPVG5oWjJBNkdLSGVGSVpZdjJ5ZVpDV2JiZlg1eEtuaFh3akErb0QwanVvNXFLMEF2YjVkaTVaeE41NHhiSWFEcVVoU0xmWk5UUGkrWW9icWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQzMjExCWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CjQ0UFdjUU0rMGxCczA5bVBmSk11Vlh3RkwrMjJrNFpqQ0lKQytGZUxpWVY0NnpXb0pGOVJvWHhrSThYZVdBMXBlV2gvaEJMWHhNRFQvbDR2U2VLdEFRPT0K",
       "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.1/HashLog.app.tar.gz"
     }
   }
