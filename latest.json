@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
-  "notes": "Added app logger.",
-  "pub_date": "2026-03-24T12:00:00Z",
+  "version": "1.0.0",
+  "notes": "Production version v1.0.0.",
+  "pub_date": "2026-04-14T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1daRnJPVG5oWjJBNkdLSGVGSVpZdjJ5ZVpDV2JiZlg1eEtuaFh3akErb0QwanVvNXFLMEF2YjVkaTVaeE41NHhiSWFEcVVoU0xmWk5UUGkrWW9icWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQzMjExCWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CjQ0UFdjUU0rMGxCczA5bVBmSk11Vlh3RkwrMjJrNFpqQ0lKQytGZUxpWVY0NnpXb0pGOVJvWHhrSThYZVdBMXBlV2gvaEJMWHhNRFQvbDR2U2VLdEFRPT0K",
-      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.2/HashLog.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b2Zxb01tSDVxaU5TTm1qR3hqanVoeVYremoycGlvdDc3N2w4M1grUkRhR0FHeE1oWjlrUGd6QUdPOGNnMENON051NXVMN3FxTXpvNzBySTBVR2g0K2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTU2NTA0CWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CnVaTjJXTHlMczE5dVNZSlBsSGg2SjhKRzBicTNzMzlPS0lsTXlzY0hEOW5yaUpKYUI2cnhtQXZOWmVKcnFuNkZlMWRtZjRZY3ZBeVJycDRtR1NkK0FRPT0K",
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.0/HashLog_1.0.0_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b1daRnJPVG5oWjJBNkdLSGVGSVpZdjJ5ZVpDV2JiZlg1eEtuaFh3akErb0QwanVvNXFLMEF2YjVkaTVaeE41NHhiSWFEcVVoU0xmWk5UUGkrWW9icWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQzMjExCWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CjQ0UFdjUU0rMGxCczA5bVBmSk11Vlh3RkwrMjJrNFpqQ0lKQytGZUxpWVY0NnpXb0pGOVJvWHhrSThYZVdBMXBlV2gvaEJMWHhNRFQvbDR2U2VLdEFRPT0K",
-      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.2/HashLog.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWSszemJlWFg4b2Zxb01tSDVxaU5TTm1qR3hqanVoeVYremoycGlvdDc3N2w4M1grUkRhR0FHeE1oWjlrUGd6QUdPOGNnMENON051NXVMN3FxTXpvNzBySTBVR2g0K2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTU2NTA0CWZpbGU6SGFzaExvZy5hcHAudGFyLmd6CnVaTjJXTHlMczE5dVNZSlBsSGg2SjhKRzBicTNzMzlPS0lsTXlzY0hEOW5yaUpKYUI2cnhtQXZOWmVKcnFuNkZlMWRtZjRZY3ZBeVJycDRtR1NkK0FRPT0K",
+      "url": "https://github.com/projects-safi/hashlog-releases/releases/download/v1.0.0/HashLog_1.0.0_universal.app.tar.gz"
     }
   }
 }
